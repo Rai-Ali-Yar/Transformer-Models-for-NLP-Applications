@@ -107,7 +107,4 @@ Each task demonstrates fine-tuning, evaluation, and real-world use cases of mode
 BS Computer Science — FAST University, Pakistan  
 [LinkedIn](https://www.linkedin.com/in/rai-ali-yar)
 
----
 
-## 🏷️ License
-This project is released under the **MIT License**.
